@@ -1,2 +1,2 @@
 # Struts2XMLDownload
-Struts2XMLDownload
+In this demo you will see how to create XML report on server side and send XML response back to the client so that he could view/download report in his local system. To keep this demo easy to understand I have created XML using core java API but it is up to you to use any third party or other java API to create XML file write content in response. Please follow steps below:
